@@ -20,12 +20,14 @@ Você pode instalar a biblioteca Pillow usando o seguinte comando:
 
 ```bash
 pip install Pillow
-
+```
 ## Uso do Script
 
 Execute o script Python:
 
 ```bash
 python image_viewer.py
-
+```
+📂 Exemplo de Uso
+Suponha que você tenha uma pasta chamada "imagens_para_estudo" com várias imagens dentro. Ao selecionar essa pasta e clicar em "Próxima Imagem", o programa exibirá as imagens em ordem aleatória. Isso pode ser útil, por exemplo, para estudos, revisões ou quizzes baseados em imagens.
 
